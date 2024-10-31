@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.check{
+    width: 500px;
+    height: 300px;
+    position: fixed;
+    overflow: hidden;
+}
+img:hover{
+    width: 1000px;
+    height: 400px;
+    align-items: center;
+}
